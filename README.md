@@ -18,11 +18,15 @@ Our solution is built for those who face daily challenges navigating physical sp
 **Hardware**
 - Raspberry Pi 5  
 - Pi Camera (AI version)
-- Speaker module
+- Audio module
+- Speaker
+- Ultrasonic sensor
+- LCD display
+- Button
+- LED
 
 **Software**
 - Python (main application)
-- TensorFlow Lite (model inference)  
 - pyttsx3 (text-to-speech)
 
 **Tools**
